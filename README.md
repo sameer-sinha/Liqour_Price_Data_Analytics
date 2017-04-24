@@ -10,5 +10,5 @@ In this application data is summarised, according to user input, using dplyr and
 2. Using tree library to show some hierarchical structure
 
 
-*To run the app directly from RStudio use*
+*To run the app directly from RStudio use*   
 shiny::runGitHub("Liqour_Price_Data_Analytics", "sameer-sinha")
