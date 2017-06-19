@@ -28,7 +28,7 @@ server <- function(input, output) {
   })
   
   output$priceRange <- renderText({
-    paste("Price Range :", input$priceInput[1], "-", input$priceInput[2])
+    paste("Price Range : $", input$priceInput[1], "- $", input$priceInput[2])
   })
   
   filtered <- reactive({
