@@ -4,6 +4,10 @@ R Shiny Application for visualization of basic analysis
 # Running the app directly from RStudio   
 shiny::runGitHub("Liqour_Price_Data_Analytics", "sameer-sinha")
 
+# Screenshot
+<img width="958" alt="liqour price" src="https://user-images.githubusercontent.com/23367652/27272247-3fd14aac-5497-11e7-95f2-14bd121f6f46.png">
+
+
 # Data Details
 The dataset used in this application contains information about all the products sold be **BC Liquor Store** and is publicly available in csv format on [this](https://www.opendatabc.ca/dataset/bc-liquor-store-product-price-list-current-prices) website. This data is pretty much clean, but I have carried out some preprocessing.
 
